@@ -12,3 +12,4 @@ bin
 **/.classpath
 **/bin
 **/.settings
+/build/

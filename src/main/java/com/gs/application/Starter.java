@@ -25,7 +25,7 @@ public class Starter implements EntryPoint {
       public void run() {
         doGet();
       }
-    }, 20000);
+    }, 120000);
   }
 
   private void doGet() {
